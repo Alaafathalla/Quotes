@@ -14,7 +14,7 @@ p{
 button{
     width: 250px;
     height: 80px;
-    background-color: blue;
+    background-color: rgb(116, 116, 150);
     color: white;
 }
 button:hover{
